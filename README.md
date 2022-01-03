@@ -16,7 +16,7 @@
 
 ## Installation (Ubuntu 16.04 Server)
 ```sh
-git clone https://github.com/TannerReynolds/ShareX-Upload-Server.git
+git clone https://github.com/ArrowTheFurry/ShareX-Upload-Server.git
 cd ShareX-Upload-Server
 chmod +x install.sh
 ./install.sh
